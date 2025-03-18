@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itzAnshDahiya
 - 📚 I’m currently learning everything about React.
-- 📫 How to reach me your.anshgreets@gmail.com
 - 💪🏼 Future Goals: Learn more technologies and never stop creating new ideas.
 - ⚡ Up for freelance work
 
